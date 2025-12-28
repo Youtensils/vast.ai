@@ -11,13 +11,13 @@ For A. you must:
 
 1. Launch Manager
 
-![Launch Manager](docs/assets/images/lancer_manager.png)
+![Launch Manager](../docs/assets/images/lancer_manager.png)
 
 2. Install missing nodes and update existing ones
 
-![Click Install Missing Nodes](docs/assets/images/installer_noeuds_manquants_1.png)
+![Click Install Missing Nodes](../docs/assets/images/installer_noeuds_manquants_1.png)
 
-![Launch Manager](docs/assets/images/installer_noeuds_manquants_2.png)
+![Launch Manager](../docs/assets/images/installer_noeuds_manquants_2.png)
 
 
 3. For A., you must Restart ComfyUI 
