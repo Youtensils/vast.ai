@@ -1,5 +1,8 @@
 #!/bin/sh
 # WAN 2.2 Animate Install Script
+# to run in Jupyter terminal:
+# bash <(wget -qO- ) 
+
 
 cd ComfyUI/models
 cd loras
