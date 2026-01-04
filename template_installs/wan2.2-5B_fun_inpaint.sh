@@ -1,5 +1,5 @@
 #!/bin/sh
-# WAN 2.2 Animate Install Script
+# WAN 2.2 5B Fun Inpaint Install Script
 # to run in Jupyter terminal:
 # bash <(wget -qO- https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/template_installs/wan2.2-5B_fun_inpaint.sh) 
 
