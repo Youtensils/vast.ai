@@ -7,7 +7,9 @@ A. Custom Nodes
 B. Multiple Models
 
 
-For A. you must:
+## For A. (Installing Custom Nodes)
+
+You must:
 
 1. Launch Manager
 
@@ -24,3 +26,9 @@ For A. you must:
 
 4. Tip: For Reloading Models (B.) Press 'R' inside ComfyUI to reload models—no restart required
 
+## For B. (Installing Multiple Models in one shot)
+
+Go to [Template Installs](../template_installs)
+
+Note: Every script has a standard format. 
+Pick up line 
