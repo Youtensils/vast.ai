@@ -5,7 +5,9 @@
 
 
 cd ComfyUI/models
-cd ../vae
+cd vae
 wget https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/vae/wan2.2_vae.safetensors
 cd ../diffusion_models/
 wget https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_fun_inpaint_5B_bf16.safetensors
+cd ../
+
