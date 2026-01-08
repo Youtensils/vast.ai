@@ -31,7 +31,7 @@ https://github.com/jamesWalker55/comfyui-various.git
 https://github.com/kk8bit/KayTool.git
 https://github.com/BadCafeCode/masquerade-nodes-comfyui.git
 https://github.com/mercu-lore/-Multiple-Angle-Camera-Control.git
-https://github.com/luguoli/ComfyUI-Qwen-Image-Integrated-KSampler.git.git
+https://github.com/luguoli/ComfyUI-Qwen-Image-Integrated-KSampler.git
 https://github.com/rgthree/rgthree-comfy.git
 https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler.git
 https://github.com/ltdrdata/was-node-suite-comfyui.git
