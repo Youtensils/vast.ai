@@ -18,7 +18,7 @@ https://github.com/yolain/ComfyUI-Easy-Use.git.git
 https://github.com/ltdrdata/ComfyUI-Impact-Pack.git
 https://github.com/ltdrdata/ComfyUI-Impact-Subpack.git
 https://github.com/kijai/ComfyUI-KJNodes.git
-https://github.com/DazzleML/comfyui-triton-and-sageattention-installer.git.git
+https://github.com/DazzleML/comfyui-triton-and-sageattention-installer.git
 https://github.com/jamesWalker55/comfyui-various.git
 https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite.git
 https://github.com/Fannovel16/comfyui_controlnet_aux.git
