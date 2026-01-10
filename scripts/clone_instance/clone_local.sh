@@ -12,7 +12,7 @@ apt-get update && apt-get install -y aria2
 mkdir -p $BASEDIR/YT/cloner
 cd $BASEDIR/YT/cloner
 
-function download_from_file() {
+function download_from_file {
     FILE=$1
     OUTPUT_PATH=$2
     aria2c \
@@ -39,8 +39,9 @@ cat $BASEDIR/YT/cloner/custom_nodes.txt | while read line; do
 done
 
 #dowload workflows
+mkdir -p $BASEDIR/workflows
 cd $BASEDIR/workflows
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/workflows/workflows.tgz
+wget https://github.com/Youtensils/vast.ai/raw/refs/heads/main/scripts/clone_instance/workflows/workflows.tgz
 tar -xvzf workflows.tgz
 cd -
 
@@ -61,8 +62,8 @@ wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/script
 download_from_file $BASEDIR/YT/cloner/clip_vision.txt $BASEDIR/models/clip_vision
 
 #download controlnet
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/controlnet.txt
-download_from_file $BASEDIR/YT/cloner/controlnet.txt $BASEDIR/models/controlnet
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/controlnet.txt
+#download_from_file $BASEDIR/YT/cloner/controlnet.txt $BASEDIR/models/controlnet
 
 #download detection
 #wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/detection.txt
