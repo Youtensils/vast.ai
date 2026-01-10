@@ -10,9 +10,9 @@ https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_
 # Size: 335MB
 https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors
     out=qwen_image_vae.safetensors
-# Size: 254 MB
+# Size: 254MB
 https://huggingface.co/Kijai/WanVideo_comfy/resolve/9b2c559161f2a37cb2f68918cc51adaec2948727/Wan2_1_VAE_bf16.safetensors
     out=Wan2_1_VAE_bf16.safetensors
-# Size: 254 MB
+# Size: 254MB
 https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors
     out=wan_2.1_vae.safetensors
