@@ -1,7 +1,8 @@
 #!/bin/sh
 # Clone local ComfyUI -> VastAI Install Script
 # to run in Jupyter terminal:
-# bash <(wget -qO- https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/template_installs/clone_local.sh)
+# bash <(wget -qO- https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/clone_local.sh)
+
 
 BASEDIR=/workspace/ComfyUI
 
