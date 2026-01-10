@@ -7,7 +7,7 @@ https://huggingface.co/Comfy-Org/HuMo_ComfyUI/resolve/main/split_files/diffusion
 # Size: 16.7GB
 https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/diffusion_models/hunyuanvideo1.5_1080p_sr_distilled_fp16.safetensors
     out=hunyuanvideo1.5_1080p_sr_distilled_fp16.safetensors
-# Size: 16.7MB
+# Size: 16.7GB
 https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/diffusion_models/hunyuanvideo1.5_720p_i2v_fp16.safetensors
     out=hunyuanvideo1.5_720p_i2v_fp16.safetensors
 # Size: 21.8GB
