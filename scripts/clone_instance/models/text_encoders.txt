@@ -1,0 +1,17 @@
+# Size: 439MB
+https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/text_encoders/byt5_small_glyphxl_fp16.safetensors
+    out=byt5_small_glyphxl_fp16.safetensors
+# Size: 35GB
+https://huggingface.co/Comfy-Org/flux2-dev/resolve/main/split_files/text_encoders/mistral_3_small_flux2_bf16.safetensors
+    out=mistral_3_small_flux2_bf16.safetensors
+# Size: 3.75GB
+https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors
+    out=qwen_2.5_vl_7b_fp8_scaled.safetensors
+# Size: 8.04GB
+https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/text_encoders/qwen_3_4b.safetensors
+    out=qwen_3_4b.safetensors
+# Size: 6.74GB
+https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp8_e4m3fn_scaled.safetensors
+    out=umt5_xxl_fp8_e4m3fn_scaled.safetensors
+
+

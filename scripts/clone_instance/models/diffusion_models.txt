@@ -1,0 +1,36 @@
+# Size: 35.5GB
+https://huggingface.co/Comfy-Org/flux2-dev/resolve/main/split_files/diffusion_models/flux2_dev_fp8mixed.safetensors
+    out=flux2_dev_fp8mixed.safetensors
+# Size: 17.1GB
+https://huggingface.co/Comfy-Org/HuMo_ComfyUI/resolve/main/split_files/diffusion_models/humo_17B_fp8_e4m3fn.safetensors
+    out=humo_17B_fp8_e4m3fn.safetensors
+# Size: 16.7GB
+https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/diffusion_models/hunyuanvideo1.5_1080p_sr_distilled_fp16.safetensors
+    out=hunyuanvideo1.5_1080p_sr_distilled_fp16.safetensors
+# Size: 16.7MB
+https://huggingface.co/Comfy-Org/HunyuanVideo_1.5_repackaged/resolve/main/split_files/diffusion_models/hunyuanvideo1.5_720p_i2v_fp16.safetensors
+    out=hunyuanvideo1.5_720p_i2v_fp16.safetensors
+# Size: 21.8GB
+https://huggingface.co/QuantStack/Qwen-Image-Edit-2509-GGUF/resolve/main/Qwen-Image-Edit-2509-Q8_0.gguf
+    out=Qwen-Image-Edit-2509-Q8_0.gguf
+# Size: 4.89GB
+https://huggingface.co/Comfy-Org/Qwen-Image-Edit_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_edit_2509_fp8_e4m3fn.safetensors
+    out=qwen_image_edit_2509_fp8_e4m3fn.safetensors
+# Size: 40.9GB
+https://huggingface.co/Comfy-Org/Qwen-Image-Edit_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_edit_2511_bf16.safetensors
+    out=qwen_image_edit_2511_bf16.safetensors
+# Size: 11.9GB
+https://huggingface.co/aufjsufjaujda3/nafa/resolve/1c20682f9751b253b476b2727af56deb15011f5b/ultrarealFineTune_v4.safetensors
+    out=ultrarealFineTune_v4.safetensors
+# Size: 14.3GB
+https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors
+    out=wan2.2_i2v_high_noise_14B_fp8_scaled.safetensors
+# Size: 14.3GB
+https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors
+    out=wan2.2_i2v_low_noise_14B_fp8_scaled.safetensors
+# Size: 16.4GB
+https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/diffusion_models/wan2.2_s2v_14B_fp8_scaled.safetensors
+    out=wan2.2_s2v_14B_fp8_scaled.safetensors
+# Size: 12.3GB
+https://huggingface.co/Comfy-Org/z_image_turbo/resolve/main/split_files/diffusion_models/z_image_turbo_bf16.safetensors
+    out=z_image_turbo_bf16.safetensors

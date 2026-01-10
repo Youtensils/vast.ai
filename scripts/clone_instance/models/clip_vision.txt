@@ -1,0 +1,9 @@
+# Size: 857MB
+https://huggingface.co/Comfy-Org/sigclip_vision_384/resolve/main/sigclip_vision_patch14_384.safetensors
+    out=sigclip_vision_patch14_384.safetensors
+# Size: 3.69GB
+https://huggingface.co/stabilityai/control-lora/resolve/main/revision/clip_vision_g.safetensors
+    out=clip_vision_g.safetensors
+# Size: 1.26GB
+https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/clip_vision/clip_vision_h.safetensors
+    out=clip_vision_h.safetensors
