@@ -29,14 +29,14 @@ function download_from_file {
 }
 
 #dowload custom nodes
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/custom_nodes/custom_nodes.txt
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/custom_nodes/custom_nodes.txt
 
-cat $BASEDIR/YT/cloner/custom_nodes.txt | while read line; do
-    cd $BASEDIR/custom_nodes
-    echo ">> Cloning $line"
-    git clone $line
-    cd -
-done
+#cat $BASEDIR/YT/cloner/custom_nodes.txt | while read line; do
+#    cd $BASEDIR/custom_nodes
+#    echo ">> Cloning $line"
+#    git clone $line
+#    cd -
+#done
 
 #dowload workflows
 mkdir -p $BASEDIR/workflows
