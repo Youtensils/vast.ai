@@ -31,12 +31,12 @@ function download_from_file {
 #dowload custom nodes
 #wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/custom_nodes/custom_nodes.txt
 
-#cat $BASEDIR/YT/cloner/custom_nodes.txt | while read line; do
-#    cd $BASEDIR/custom_nodes
-#    echo ">> Cloning $line"
-#    git clone $line
-#    cd -
-#done
+cat $BASEDIR/YT/cloner/custom_nodes.txt | while read line; do
+    cd $BASEDIR/custom_nodes
+    echo ">> Cloning $line"
+    git clone $line
+    cd -
+done
 
 #dowload workflows
 #mkdir -p $BASEDIR/workflows
@@ -58,8 +58,8 @@ function download_from_file {
 #download_from_file $BASEDIR/YT/cloner/clips.txt $BASEDIR/models/clips
 
 #download clip_vision
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/clip_vision.txt
-download_from_file $BASEDIR/YT/cloner/clip_vision.txt $BASEDIR/models/clip_vision
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/clip_vision.txt
+#download_from_file $BASEDIR/YT/cloner/clip_vision.txt $BASEDIR/models/clip_vision
 
 #download controlnet
 #wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/controlnet.txt
@@ -74,8 +74,8 @@ download_from_file $BASEDIR/YT/cloner/clip_vision.txt $BASEDIR/models/clip_visio
 #download_from_file $BASEDIR/YT/cloner/diffusers.txt $BASEDIR/models/diffusers
 
 #download diffusion_models
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/diffusion_models.txt
-download_from_file $BASEDIR/YT/cloner/diffusion_models.txt $BASEDIR/models/diffusion_models
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/diffusion_models.txt
+#download_from_file $BASEDIR/YT/cloner/diffusion_models.txt $BASEDIR/models/diffusion_models
 
 #download embeddings
 #wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/embeddings.txt
@@ -90,8 +90,8 @@ download_from_file $BASEDIR/YT/cloner/diffusion_models.txt $BASEDIR/models/diffu
 #download_from_file $BASEDIR/YT/cloner/latent_upscale_models.txt $BASEDIR/models/latent_upscale_models
 
 #download loras
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/loras.txt
-download_from_file $BASEDIR/YT/cloner/loras.txt $BASEDIR/models/loras
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/loras.txt
+#download_from_file $BASEDIR/YT/cloner/loras.txt $BASEDIR/models/loras
 
 #download model_patches
 #wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/model_patches.txt
@@ -102,9 +102,9 @@ download_from_file $BASEDIR/YT/cloner/loras.txt $BASEDIR/models/loras
 #download_from_file $BASEDIR/YT/cloner/sam2.txt $BASEDIR/models/sam2
 
 #download text_encoders
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/text_encoders.txt
-download_from_file $BASEDIR/YT/cloner/text_encoders.txt $BASEDIR/models/text_encoders
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/text_encoders.txt
+#download_from_file $BASEDIR/YT/cloner/text_encoders.txt $BASEDIR/models/text_encoders
 
 #download vaes
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/vae.txt
-download_from_file $BASEDIR/YT/cloner/vae.txt $BASEDIR/models/vae
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/vae.txt
+#download_from_file $BASEDIR/YT/cloner/vae.txt $BASEDIR/models/vae
