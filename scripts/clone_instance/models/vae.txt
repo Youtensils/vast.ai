@@ -16,3 +16,6 @@ https://huggingface.co/Kijai/WanVideo_comfy/resolve/9b2c559161f2a37cb2f68918cc51
 # Size: 254MB
 https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors
     out=wan_2.1_vae.safetensors
+https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/vae/wan2.2_vae.safetensors
+    out=wan2.2_vae.safetensors
+    
