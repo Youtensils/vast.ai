@@ -39,67 +39,67 @@ cat $BASEDIR/YT/cloner/custom_nodes.txt | while read line; do
 done
 
 #dowload workflows
-mkdir -p $BASEDIR/workflows
-cd $BASEDIR/workflows
-wget https://github.com/Youtensils/vast.ai/raw/refs/heads/main/scripts/clone_instance/workflows/workflows.tgz
-tar -xvzf workflows.tgz
-cd -
+#mkdir -p $BASEDIR/workflows
+#cd $BASEDIR/workflows
+#wget https://github.com/Youtensils/vast.ai/raw/refs/heads/main/scripts/clone_instance/workflows/workflows.tgz
+#tar -xvzf workflows.tgz
+#cd -
 
 #download audio_encoders
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/audio_encoders.txt
-download_from_file $BASEDIR/YT/cloner/audio_encoders.txt $BASEDIR/models/audio_encoders
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/audio_encoders.txt
+#download_from_file $BASEDIR/YT/cloner/audio_encoders.txt $BASEDIR/models/audio_encoders
 
 #download checkpoints
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/checkpoints.txt
-download_from_file $BASEDIR/YT/cloner/checkpoints.txt $BASEDIR/models/checkpoints
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/checkpoints.txt
+#download_from_file $BASEDIR/YT/cloner/checkpoints.txt $BASEDIR/models/checkpoints
 
 #download clips
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/clips.txt
-download_from_file $BASEDIR/YT/cloner/clips.txt $BASEDIR/models/clips
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/clips.txt
+#download_from_file $BASEDIR/YT/cloner/clips.txt $BASEDIR/models/clips
 
 #download clip_vision
 wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/clip_vision.txt
 download_from_file $BASEDIR/YT/cloner/clip_vision.txt $BASEDIR/models/clip_vision
 
 #download controlnet
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/controlnet.txt
-download_from_file $BASEDIR/YT/cloner/controlnet.txt $BASEDIR/models/controlnet
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/controlnet.txt
+#download_from_file $BASEDIR/YT/cloner/controlnet.txt $BASEDIR/models/controlnet
 
 #download detection
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/detection.txt
-download_from_file $BASEDIR/YT/cloner/detection.txt $BASEDIR/models/detection
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/detection.txt
+#download_from_file $BASEDIR/YT/cloner/detection.txt $BASEDIR/models/detection
 
 #download diffusers
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/diffusers.txt
-download_from_file $BASEDIR/YT/cloner/diffusers.txt $BASEDIR/models/diffusers
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/diffusers.txt
+#download_from_file $BASEDIR/YT/cloner/diffusers.txt $BASEDIR/models/diffusers
 
 #download diffusion_models
 wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/diffusion_models.txt
 download_from_file $BASEDIR/YT/cloner/diffusion_models.txt $BASEDIR/models/diffusion_models
 
 #download embeddings
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/embeddings.txt
-download_from_file $BASEDIR/YT/cloner/embeddings.txt $BASEDIR/models/embeddings
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/embeddings.txt
+#download_from_file $BASEDIR/YT/cloner/embeddings.txt $BASEDIR/models/embeddings
 
 #download gligen
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/gligen.txt
-download_from_file $BASEDIR/YT/cloner/gligen.txt $BASEDIR/models/gligen
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/gligen.txt
+#download_from_file $BASEDIR/YT/cloner/gligen.txt $BASEDIR/models/gligen
 
 #download latent_upscale_models
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/latent_upscale_models.txt
-download_from_file $BASEDIR/YT/cloner/latent_upscale_models.txt $BASEDIR/models/latent_upscale_models
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/latent_upscale_models.txt
+#download_from_file $BASEDIR/YT/cloner/latent_upscale_models.txt $BASEDIR/models/latent_upscale_models
 
 #download loras
 wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/loras.txt
 download_from_file $BASEDIR/YT/cloner/loras.txt $BASEDIR/models/loras
 
 #download model_patches
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/model_patches.txt
-download_from_file $BASEDIR/YT/cloner/model_patches.txt $BASEDIR/models/model_patches
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/model_patches.txt
+#download_from_file $BASEDIR/YT/cloner/model_patches.txt $BASEDIR/models/model_patches
 
 #download sam2
-wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/sam2.txt
-download_from_file $BASEDIR/YT/cloner/sam2.txt $BASEDIR/models/sam2
+#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/sam2.txt
+#download_from_file $BASEDIR/YT/cloner/sam2.txt $BASEDIR/models/sam2
 
 #download text_encoders
 wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/text_encoders.txt
