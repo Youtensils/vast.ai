@@ -39,11 +39,11 @@ function download_from_file {
 #done
 
 #dowload workflows
-mkdir -p $BASEDIR/workflows
-cd $BASEDIR/workflows
-wget https://github.com/Youtensils/vast.ai/raw/refs/heads/main/scripts/clone_instance/workflows/workflows.tgz
-tar -xvzf workflows.tgz
-cd -
+#mkdir -p $BASEDIR/workflows
+#cd $BASEDIR/workflows
+#wget https://github.com/Youtensils/vast.ai/raw/refs/heads/main/scripts/clone_instance/workflows/workflows.tgz
+#tar -xvzf workflows.tgz
+#cd -
 
 #download audio_encoders
 #wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/audio_encoders.txt
