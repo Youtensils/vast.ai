@@ -39,11 +39,11 @@ cat $BASEDIR/YT/cloner/custom_nodes.txt | while read line; do
 done
 
 #dowload workflows
-#mkdir -p $BASEDIR/workflows
-#cd $BASEDIR/workflows
-#wget https://github.com/Youtensils/vast.ai/raw/refs/heads/main/scripts/clone_instance/workflows/workflows.tgz
-#tar -xvzf workflows.tgz
-#cd -
+mkdir -p $BASEDIR/user/default/workflows
+cd $BASEDIR/user/default/workflows
+wget https://github.com/Youtensils/vast.ai/raw/refs/heads/main/scripts/clone_instance/workflows/workflows.tgz
+tar -xvzf workflows.tgz
+cd -
 
 #download audio_encoders
 #wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/audio_encoders.txt
