@@ -70,8 +70,8 @@ download_from_file $BASEDIR/YT/cloner/clip_vision.txt $BASEDIR/models/clip_visio
 #download_from_file $BASEDIR/YT/cloner/detection.txt $BASEDIR/models/detection
 
 #download diffusers
-#wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/diffusers.txt
-#download_from_file $BASEDIR/YT/cloner/diffusers.txt $BASEDIR/models/diffusers
+wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/diffusers.txt
+download_from_file $BASEDIR/YT/cloner/diffusers.txt $BASEDIR/models/diffusers
 
 #download diffusion_models
 wget https://raw.githubusercontent.com/Youtensils/vast.ai/refs/heads/main/scripts/clone_instance/models/diffusion_models.txt
