@@ -1,0 +1,18 @@
+https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/vae/qwen_image_vae.safetensors
+    out=vae/qwen_image_vae.safetensors
+https://huggingface.co/Comfy-Org/Qwen-Image_ComfyUI/resolve/main/split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors
+    out=text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors
+https://huggingface.co/Comfy-Org/Qwen-Image-Edit_ComfyUI/resolve/main/split_files/diffusion_models/qwen_image_edit_2509_fp8_e4m3fn.safetensors
+    out=diffusion_models/qwen_image_edit_2509_fp8_e4m3fn.safetensors
+https://huggingface.co/Kijai/WanVideo_comfy_fp8_scaled/resolve/main/MoCha/Wan2_1_mocha-14B-preview_fp8_e4m3fn_scaled_KJ.safetensors
+    out=diffusion_models/Wan2_1_mocha-14B-preview_fp8_e4m3fn_scaled_KJ.safetensors
+https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main/Qwen-Image-Edit-Lightning-4steps-V1.0.safetensors
+    out=diffusion_models/Qwen-Image-Edit-Lightning-4steps-V1.0.safetensors
+https://huggingface.co/lovis93/next-scene-qwen-image-lora-2509/resolve/main/next-scene_lora-v2-3000.safetensors
+    out=loras/next-scene_lora-v2-3000.safetensors
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Lightx2v/lightx2v_T2V_14B_cfg_step_distill_v2_lora_rank256_bf16.safetensors
+    out=loras/lightx2v_T2V_14B_cfg_step_distill_v2_lora_rank256_bf16.safetensors
+https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/text_encoders/umt5_xxl_fp16.safetensors
+    out=text_encoders/umt5_xxl_fp16.safetensors
+https://huggingface.co/Comfy-Org/Wan_2.1_ComfyUI_repackaged/resolve/main/split_files/vae/wan_2.1_vae.safetensors
+    out=vae/wan_2.1_vae.safetensors

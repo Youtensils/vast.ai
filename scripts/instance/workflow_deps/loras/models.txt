@@ -1,0 +1,84 @@
+# Size: 229MB
+https://huggingface.co/KappaNeuro/director-christopher-nolan-style/resolve/main/Director%20Christopher%20Nolan%20style.safetensors
+    out=loras/Director Christopher Nolan style.safetensors
+# Size: 229MB
+https://huggingface.co/KappaNeuro/directors-coen-brothers-style/resolve/main/Director%20Coen%20Brothers%20style.safetensors
+    out=loras/Director Coen Brothers style.safetensors
+# Size: 229MB
+https://huggingface.co/KappaNeuro/director-darren-aronofsky-style/resolve/main/Director%20Darren%20Aronofsky%20style.safetensors
+    out=loras/Director Darren Aronofsky style.safetensors
+# Size: 229MB
+https://huggingface.co/KappaNeuro/director-david-fincher-style/resolve/main/Director%20David%20Fincher%20style.safetensors
+    out=loras/Director David Fincher style.safetensors
+# Size: 229MB
+https://huggingface.co/KappaNeuro/director-david-lynch-style/resolve/main/Director%20David%20Lynch%20style.safetensors
+    out=loras/Director David Lynch style.safetensors
+# Size: 229MB
+https://huggingface.co/KappaNeuro/director-gaspar-noe-style/resolve/main/Director%20Gaspar%20Noe%20style.safetensors
+    out=loras/Director Gaspar Noe style.safetensors
+# Size: 229MB
+https://huggingface.co/KappaNeuro/director-jean-pierre-jeunet-style/resolve/main/Director%20Jean-Pierre%20Jeunet%20style.safetensors
+    out=loras/Director Jean-Pierre Jeunet style.safetensors
+# Size: 229MB
+https://huggingface.co/KappaNeuro/director-krzysztof-kieslowski-style/resolve/main/Director%20Krzysztof%20Kieslowski%20style.safetensors
+    out=loras/Director Krzysztof Kieslowski style.safetensors
+# Size: 229MB
+https://huggingface.co/KappaNeuro/director-quentin-tarantino-style/resolve/main/Director%20Quentin%20Tarantino%20style.safetensors
+    out=loras/Director Quentin Tarantino style.safetensors
+# Size: 229MB
+https://huggingface.co/KappaNeuro/director-ridley-scott-style/resolve/main/Director%20Ridley%20Scott%20style.safetensors
+    out=loras/Director Ridley Scott style.safetensors
+# Size: 229MB
+https://huggingface.co/KappaNeuro/director-stanley-kubrick-style/resolve/main/Director%20Stanley%20Kubrick%20style.safetensors
+    out=loras/Director Stanley Kubrick style.safetensors
+# Size: 229MB
+https://huggingface.co/KappaNeuro/director-terrence-malick-style/resolve/main/Director%20Terrence%20Malick%20style.safetensors
+    out=loras/Director Terrence Malick style.safetensors
+# Size: 228MB
+https://huggingface.co/KappaNeuro/director-tim-burton-style/resolve/main/Director%20Tim%20Burton%20style.safetensors
+    out=loras/Director Tim Burton style.safetensors
+# Size: 229MB
+https://huggingface.co/KappaNeuro/director-wes-anderson-style/resolve/main/Director%20Wes%20Anderson%20style.safetensors
+    out=loras/Director Wes Anderson style.safetensors
+# Size: 333MB
+https://huggingface.co/lovis93/Flux-2-Multi-Angles-LoRA-v2/resolve/67b759f74b5ea802bc50b77fdeffab8b972a1331/flux-multi-angles-v2-72poses-comfy.safetensors
+    out=loras/flux-multi-angles-v2-72poses-comfy.safetensors
+# Size: 7.38MB
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Lightx2v/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors
+    out=loras/lightx2v_I2V_14B_480p_cfg_step_distill_rank64_bf16.safetensors
+# Size: 631MB
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/Lightx2v/lightx2v_T2V_14B_cfg_step_distill_v2_lora_rank64_bf16.safetensors
+    out=loras/lightx2v_T2V_14B_cfg_step_distill_v2_lora_rank64_bf16.safetensors
+# Size: 170MB
+https://huggingface.co/tarn59/pixel_art_style_lora_z_image_turbo/resolve/main/pixel_art_style_z_image_turbo.safetensors
+    out=loras/pixel_art_style_z_image_turbo.safetensors
+# Size: 236MB
+https://huggingface.co/Comfy-Org/Qwen-Image-Edit_ComfyUI/resolve/main/split_files/loras/Qwen-Edit-2509-Multiple-angles.safetensors
+    out=loras/Qwen-Edit-2509-Multiple-angles.safetensors
+# Size: 295MB
+https://huggingface.co/tlennon-ie/qwen-edit-skin/resolve/main/qwen-edit-skin_1.1_000002750.safetensors
+    out=loras/qwen-edit-skin_1.1_000002750.safetensors
+# Size: 850MB
+https://huggingface.co/lightx2v/Qwen-Image-Lightning/resolve/main/Qwen-Image-Edit-2509/Qwen-Image-Edit-2509-Lightning-4steps-V1.0-bf16.safetensors
+    out=loras/Qwen-Image-Edit-2509-Lightning-4steps-V1.0-bf16.safetensors
+# Size: 850MB
+https://huggingface.co/lightx2v/Qwen-Image-Edit-2511-Lightning/resolve/main/Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors
+    out=loras/Qwen-Image-Edit-2511-Lightning-4steps-V1.0-bf16.safetensors
+# Size: 1.44GB
+https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/wan2.2_animate_14B_relight_lora_bf16.safetensors
+    out=loras/wan2.2_animate_14B_relight_lora_bf16.safetensors
+# Size: 1.23GB
+https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/wan2.2_i2v_lightx2v_4steps_lora_v1_high_noise.safetensors
+    out=loras/wan2.2_i2v_lightx2v_4steps_lora_v1_high_noise.safetensors
+# Size: 1.23GB
+https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors
+    out=loras/wan2.2_i2v_lightx2v_4steps_lora_v1_low_noise.safetensors
+# Size: 1.23GB
+https://huggingface.co/Comfy-Org/Wan_2.2_ComfyUI_Repackaged/resolve/main/split_files/loras/wan2.2_t2v_lightx2v_4steps_lora_v1.1_high_noise.safetensors
+    out=loras/wan2.2_t2v_lightx2v_4steps_lora_v1.1_high_noise.safetensors
+# Size: 1.44GB
+https://huggingface.co/Kijai/WanVideo_comfy/resolve/main/LoRAs/Wan22_relight/WanAnimate_relight_lora_fp16.safetensors
+    out=loras/WanAnimate_relight_lora_fp16.safetensors
+# Size:118MB
+https://huggingface.co/KappaNeuro/william-mctaggart-style/resolve/main/William%20McTaggart%20Style.safetensors
+    out=loras/William McTaggart Style.safetensors

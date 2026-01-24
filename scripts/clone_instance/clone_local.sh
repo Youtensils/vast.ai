@@ -7,7 +7,9 @@
 BASEDIR=/workspace/ComfyUI
 
 #install aria2 for faster downloads
-apt-get update && apt-get install -y aria2
+apt-get update 
+apt-get install -y aria2 
+apt-get install -y screen 
 
 mkdir -p $BASEDIR/YT/cloner
 cd $BASEDIR/YT/cloner
